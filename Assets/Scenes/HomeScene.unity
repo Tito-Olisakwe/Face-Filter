@@ -187,16 +187,14 @@ MonoBehaviour:
     Track: AR/VR
 
 
-
     Snap allows users to explore and apply unique face filters
-    using augmented reality (AR) technology. Built using advanced face-tracking SDKs,
-    this app offers an interactive and engaging user experience. Choose from a variety
-    of filters that track your face and instantly apply fun effects.
+    using augmented reality (AR) technology. This app offers an interactive and engaging
+    user experience. Choose from a variety of filters that track your face and instantly
+    apply fun effects.
 
 
-    Tap on
-    the filter icons at the bottom of the screen to easily switch between different
-    looks and watch as the filters adapt to your movements in real-time.'
+    Tap on the filter icons at the bottom of the screen
+    to easily switch between different looks and take pictures to capture the moment.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2119,6 +2117,10 @@ PrefabInstance:
     - target: {fileID: 4262643529783851085, guid: 6ce3ff5b5cf6710499cc3374d850bae3, type: 3}
       propertyPath: m_Name
       value: BeginButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 7433085507008726564, guid: 6ce3ff5b5cf6710499cc3374d850bae3, type: 3}
+      propertyPath: m_text
+      value: Continue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
